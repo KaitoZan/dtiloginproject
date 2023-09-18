@@ -1,0 +1,56 @@
+body {
+    background-image: url(../image/imglogin01/bg1.jpg); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.inputbox {
+    font-size: 18px;
+    width: 430px;
+    height: 70px;
+    border-radius: 30px;
+    cursor: pointer;
+    display: flex;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.671);
+    
+   }
+.inputbox2 {
+    font-size: 18px;
+    width: 300px;
+    height: 60px;
+    border-radius: 30px;
+    cursor: pointer;
+    display: flex;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.671);
+   }
+#mail{ 
+    position: fixed;
+    top: 340px;
+    left: 1270px;
+}
+#pass{ 
+    position: fixed;
+    top: 530px;
+    left: 1270px;
+}
+#ok{ 
+    position: fixed;
+    top: 730px;
+    left: 1340px;
+}
+#AA{
+    border-radius: 30px;
+    position: fixed;
+    top: 620px;
+    left: 1350px;
+    color: rgba(240, 248, 255, 0.575);
+}
+#BB{
+    border-radius: 30px;
+    position: fixed;
+    top: 620px;
+    left: 1550px;
+    color: rgba(240, 248, 255, 0.637);
+}
